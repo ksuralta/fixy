@@ -27,6 +27,7 @@
   "scripts": {
     "test": "make test"
   },
+  "types": "types/index.d.ts",
   "keywords": [
     "Fixed",
     "Format",
